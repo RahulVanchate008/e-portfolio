@@ -11,7 +11,7 @@ const introdata = {
         second: "This is my E-Portfolio",
     },
     description: "Curently pursuing Master's in Computer Science at Old Dominion University, Norfolk, Virginia.",
-    your_img_url: "https://lh3.googleusercontent.com/pw/ABLVV84QU-_5-hAHkjTuOqAzoSP60n1mSOwGP1meEFV8_LqYabv8AfU-5V9-8PAOye4zxgBByIkXoBHSsHJ4D2NKBPUnFQF48WkwLFm3I5XV_de7moFa9tMqxX9_aWnxLXLRzyOhlw4v7jGBJL47ox5NzFGuCz3bgspTyWDFc8Xyw-C3PJGY2N7M9ZybbbJqNzEO-IjhdgCwpMgi9Tl7GhNpY3lRm7fquFW9VYUO8osPwweLSuQfyn8GNmLKFEWLnxEj7ZbGndFMKTkGN85qV7oPb8_jcRikwcJa5w1-xDEkvKk-IOBJDwQnJPO6fARiWu54dEM9kBCayD-dmWEWr6zd0JBqnrDmDaCyyy1lvIlt9CiHOf2HIOfwWObdoKPM8X167sjOzLPpf_EjfHhK0LDCi36SN79wlCmB8oJU1K-5PPuv62IUisEUeUSlcQ3CPKmWnlIrgloz6DkUGpbmDxI_WMkEjbtWxhjpt3rmet77IiXqjyxBleUmAtUk_RZ_AL7_UycjUphP4M_fo8uzijXzOm36oDB_qCsrYWNsS-ckFakC5c95X3NfjpQj88APY4hM7VljGwDzT6Cci7YQ8MKb95Unn4bSmgFQ7QnOWA-0bPLjDRtnScDsEVXwT746enB_0Qq-6fY_lU9JlyzZ7UlyySv0RfDOttfadZ5abl3s7vVB-FQdQJiIpcjIBjnmPlp-AkO8Ufg0WZ6ruWtR5frUZXjCW7BmhYQdJl4MnCDI1II-P0Bw0O2DXDp-bdEOiVt5QVwb4J4Uy0l2GIHwBM3yaphRsJJ-JosJrlSKRMvOlT0vrdDqW0Gz6Nr7Uci68-Ijbqk49lo4A8YMPN2173OrbICwerb8tCz2xJPOX9hYPa6jZIqPsGAu9RiHsalaJPC4o8PrC5wn4KNYNHPeyDbxdMT2WHmQmopxkpc_fGVAwuG8YkOx7NqsqK7DT-2owXmUHwZGqhcQhaxbxQ=w585-h878-s-no-gm?authuser=0",
+    your_img_url: "src/pages/home/pic01.jpg",
 };
 
 const dataabout = {
