@@ -11,7 +11,7 @@ const introdata = {
         second: "This is my E-Portfolio",
     },
     description: "Curently pursuing Master's in Computer Science at Old Dominion University, Norfolk, Virginia.",
-    your_img_url: "https://media.licdn.com/dms/image/D4E03AQEUoyA3924hvg/profile-displayphoto-shrink_800_800/0/1705594785234?e=1728518400&v=beta&t=AzycASh7ieivx26S8hEWdV-Mhw9zigPBpMtP0UMvC5k",
+    your_img_url: "https://github.com/RahulVanchate008/e-portfolio/blob/main/src/pages/home/pic01.jpg?raw=true",
 };
 
 const dataabout = {
